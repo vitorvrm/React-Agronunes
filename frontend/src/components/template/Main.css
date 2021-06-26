@@ -2,3 +2,8 @@
     background-image: url('../../assets/img/patinhas2.png');
     background-repeat: no-repeat;
 }
+
+main > div{
+    background-color: #fff;
+    box-shadow: 0 0 15 #000;
+}
